@@ -73,7 +73,7 @@ Access the application UI at: `http://localhost:3000`
 - [Machine Learning Methodology](docs/ML_METHODOLOGY.md)
 - [GIS Strategy](docs/GIS_METHODOLOGY.md)
 
----
+---https://stream-flix-lilac.vercel.app/
 
 ## ⚖️ Decision-Support Disclaimer
 
